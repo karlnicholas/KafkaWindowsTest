@@ -1,5 +1,7 @@
 This example is copied from [learn-kafka-courses](https://github.com/confluentinc/learn-kafka-courses/tree/main/kafka-streams) examples.
 
+Right now the problem is it gives inconsistent and unexpected results.
+
 
 #### Windowing
 
